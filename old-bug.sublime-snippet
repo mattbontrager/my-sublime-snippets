@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * BUG: ${1:bug details go here}
+ **/
+]]></content>
+	<tabTrigger>_bugg</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

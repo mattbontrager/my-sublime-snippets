@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * WTF: ${1: WTF is this?!}
+ **/
+]]></content>
+	<tabTrigger>_wtf</tabTrigger>
+</snippet>

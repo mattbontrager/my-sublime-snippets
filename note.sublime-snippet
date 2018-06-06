@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * NOTE: ${1: Note goes here}
+ **/
+]]></content>
+	<tabTrigger>_note</tabTrigger>
+</snippet>

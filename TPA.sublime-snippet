@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+${1:TPA_NAME} = {
+	category: '${16:category}',
+	name: '${15:name goes here}',
+	loe_to_extract: '${2:level}',
+	loe_to_create: '${3:level}',
+	critical_to_functionality: '${4:level}',
+	functionality: '${5:functionality}',
+	source: '${6:source}',
+	Scenes: {
+		loader: ${7:true/false},
+		vehicle_select: ${8:true/false},
+		yosemite: ${9:true/false},
+		san_francisco: ${10:true/false},
+		pch: ${11:true/false}
+	},
+	Description: '${12:description}',
+	Contents: '${13:contents goes here}',
+	Notes: '${14:notes go here}'
+},$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_TPA</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

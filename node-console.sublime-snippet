@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+!!development && con.${1:log||info||warn||error}(pre + ': ${2:msg goes here}');$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>nodecon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+!!development && console.${1:log, warn, error}('${2:message goes here}');
+]]></content>
+	<tabTrigger>_l</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+/*
+AWESOME: ${1: awesome comment goes here}
+*/
+]]></content>
+	<tabTrigger>@awesome</tabTrigger>
+</snippet>

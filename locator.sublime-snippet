@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/*
+LOCATOR: ${1:locator details go here}
+*/
+]]></content>
+	<tabTrigger>@loc</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

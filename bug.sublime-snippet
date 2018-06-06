@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+bug({type: "${1:log/warn/error}", msg: "${2:log msg}"${3:, elem: ${4:element}}});
+$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_b</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
